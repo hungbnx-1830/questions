@@ -1,0 +1,41 @@
+{
+  "name": "Question",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.19.3",
+    "axios": "0.18.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "6.0.1",
+    "react-router": "4.3.1",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "3.0.1",
+    "redux": "4.0.1",
+    "semantic-ui": "2.4.2",
+    "semantic-ui-css": "2.4.1",
+    "semantic-ui-react": "^0.87.1",
+    "uuid": "3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
